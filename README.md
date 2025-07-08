@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋 I'm Andre Henriques</h1>
 
----
 
-## ✨ About Me
+
+# ✨ About Me
 
 Computer Science @ Texas State University (’27) passionate about AI, full-stack apps, and building cool things with code.  
 
----
+
 
 ## 🚀 What I'm Up To
 
@@ -16,7 +16,6 @@ Computer Science @ Texas State University (’27) passionate about AI, full-stac
 
 Check out my <a href="https://andre-h.dev" target="_blank">personal website</a>!
 
----
 
 
 ## 🌐 Connect with Me
@@ -24,7 +23,7 @@ Check out my <a href="https://andre-h.dev" target="_blank">personal website</a>!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-drehenriques-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/drehenriques)
 
 
----
+
 
 ## 🛠️ Tech Stack
 
