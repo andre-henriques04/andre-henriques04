@@ -14,7 +14,7 @@ Computer Science @ Texas State University (’27) passionate about AI, full-stac
 - 🏓  Launching PickleballGPT (AI-powered pickleball coaching & tournament finder)
 - 🤖  Building agentic AI with CELLA
 
-Check out my <a href="https://andre-h.dev" target="_blank">personal website</a>!
+Check out my <a href="https://andre-h.dev" target="_blank">personal website!</a>
 
 
 
