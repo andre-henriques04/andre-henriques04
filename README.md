@@ -4,7 +4,7 @@
 
 # ✨ About Me
 
-Computer Science @ Texas State University (’27) passionate about AI, full-stack apps, and building cool things with code.  
+Junior Computer Science student @ Texas State University passionate about AI, full-stack apps, and building cool things with code.  
 
 
 
