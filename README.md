@@ -10,7 +10,7 @@ I am a rising junior studying Computer Science at Texas State University, drawn 
 ## 🚀 What I'm Up To
 
 - 🧩  SWE Intern @ Singular GovTech (AI interfaces & RAG, cloud, internal tools)
-- 🏓  Launching PickleballGPT (AI-powered pickleball coaching & tournament finder)
+- 🏓  Launching PickleballGPT (First-of-its-kind app to unify real-time tournament data and AI-powered support)
 - 🤖  Building agentic AI with CELLA
 
 Check out my <a href="https://andre-h.dev" target="_blank">personal website!</a>
