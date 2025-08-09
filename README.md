@@ -9,7 +9,6 @@ I am a rising junior studying Computer Science at Texas State University, drawn 
 
 ## 🚀 What I'm Up To
 
-- 🧩  SWE Intern @ Singular GovTech (AI interfaces & RAG, cloud, internal tools)
 - 🏓  Launching <a href="https://pickleball-gpt.com" target="_blank">PickleballGPT</a>, a first-of-its-kind app that unifies real-time tournament data and AI-powered support
 - 🤖  Building agentic AI with CELLA, a full-stack AI agent platform with persistent vector memory and live reasoning visualization
 
