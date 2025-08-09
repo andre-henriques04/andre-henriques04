@@ -4,7 +4,7 @@
 
 # ✨ About Me
 
-I am a rising junior studying Computer Science at Texas State University, drawn to AI, full-stack development, and the endless creative potential of building with code.
+I am a rising junior studying Computer Science at Texas State University, passionate about AI, full-stack development, and the endless creative potential of building with code.
 
 
 ## 🚀 What I'm Up To
