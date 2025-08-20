@@ -9,8 +9,9 @@ I am a rising junior studying Computer Science at Texas State University, passio
 
 ## 🚀 What I'm Up To
 
-- 🏓  Launching <a href="https://pickleball-gpt.com" target="_blank">PickleballGPT</a>, a first-of-its-kind app that unifies real-time tournament data and AI-powered support
-- 🤖  Building agentic AI with CELLA, a full-stack AI agent platform with persistent vector memory and live reasoning visualization
+- 🏓  Launching <a href="https://pickleball-gpt.com" target="_blank">PickleballGPT</a>, a first-of-its-kind tournament discovery platform that unifies real-time data and AI-powered search functionality
+- 🤖  Building  <a href="https://strobe.bot" target="_blank">Strobe</a> - Turn any webpage into a smart alert. Paste a URL. Describe what to watch in plain English. We'll email you when it happens—or send clean JSON to your webhook.
+
 
 Check out my <a href="https://andre-h.dev" target="_blank">personal website!</a>
 
