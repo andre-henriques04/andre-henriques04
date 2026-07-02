@@ -4,7 +4,7 @@
 
 # ✨ About Me
 
-I'm a senior Computer Science student at Texas State University passionate about AI, full-stack development, and turning ideas into real products.
+I'm a senior Computer Science student at Texas State University, passionate about AI, full-stack development, and turning ideas into real products.
 
 
 ## 🚀 What I'm Up To
