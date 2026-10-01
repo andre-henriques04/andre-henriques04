@@ -14,10 +14,4 @@ I'm a senior Computer Science student at Texas State University, passionate abou
 
 Check out my <a href="https://andre-h.dev" target="_blank">personal website!</a>
 
-
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-drehenriques-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/drehenriques)
-
 ---
